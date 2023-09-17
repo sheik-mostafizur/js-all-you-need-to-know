@@ -9,10 +9,34 @@
    Input: value of base and height of a triangle
 
    Output: area of the triangle
-   Test Cases: 
+   Test Cases:
+
    1. 5,6 => returns 15
    2. 0,0 => returns 0;
 
    </details>
 
 3. [Return the Sum of Two Numbers.](https://edabit.com/challenge/3LpBLgNRyaHMvNb4j)
+
+4. <details>
+   <summary>Convert Minutes into Seconds.</summary>
+
+   ### **Convert Minutes into Seconds.**
+
+   Write a function that takes an integer minutes and converts it to seconds.
+
+   **Examples**
+
+   ```javascript
+   convert(5) ➞ 300
+
+   convert(3) ➞ 180
+
+   convert(2) ➞ 120
+   ```
+
+   **Notes**
+
+   - Don't forget to return the result.
+
+   </details>

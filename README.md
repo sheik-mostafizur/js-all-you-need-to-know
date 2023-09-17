@@ -40,3 +40,15 @@
    - Don't forget to return the result.
 
    </details>
+
+5. [Return the Next Number from the Integer Passed](https://edabit.com/challenge/NAQhEoxbofPidLxm9)
+
+6. [Convert Age to Days](https://edabit.com/challenge/bL7hSc6Zh4zZJzGmw)
+
+7. [Convert Hours into Seconds](https://edabit.com/challenge/6AnQqiEjkJdZrWhPS)
+
+8. [Return the First Element in an Array](https://edabit.com/challenge/QaApgtePE6QrCZ64o)
+
+9. [Power Calculator](https://edabit.com/challenge/wAdE9te55cowBLcPs)
+
+10. [Convert Hours into Seconds](https://edabit.com/challenge/6AnQqiEjkJdZrWhPS)

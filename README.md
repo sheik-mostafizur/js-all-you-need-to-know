@@ -1,4 +1,4 @@
-# js-all-you-need-to-know
+# js-all-you-need-to-know [YouTube](https://youtube.com/playlist?list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1&si=TUhKqKcvM_6p6d-h)
 
 ## JavaScript Problem Lists
 

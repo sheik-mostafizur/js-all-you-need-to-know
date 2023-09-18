@@ -1,9 +1,17 @@
 # Open source contribution.
 
-> **Instruction:**
+## Contributing
 
-    - Some instruction
+Contributions are always welcome!
 
-> **Contributing rules**
+See [CONTRIBUTION](CONTRIBUTION.md) for ways to get started. []
 
-    - Rule 1
+Please adhere to this project's `code of conduct`.
+
+### Instruction
+
+- Some instruction
+
+### Contributing rules
+
+- Rule 1

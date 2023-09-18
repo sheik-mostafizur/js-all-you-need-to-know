@@ -227,11 +227,11 @@
 
 97. [Double Letters](https://edabit.com/challenge/YHLaB8itA9tEDN5TG)
 
-98. [Remove the Letters ABC](https://edabit.com/challenge/RftQjZs3srJnRBEH8)
+98. [Remove the Letters ABC.](https://edabit.com/challenge/RftQjZs3srJnRBEH8)
 
-99. [Numbers in Strings](https://edabit.com/challenge/eCPim4XcssdZdvs32)
+99. [Numbers in Strings.](https://edabit.com/challenge/eCPim4XcssdZdvs32)
 
-100. [Reverse the Odd Length Words](https://edabit.com/challenge/yYfQoo6rkMezauG77)
+100. [Reverse the Odd Length Words.](https://edabit.com/challenge/yYfQoo6rkMezauG77)
 
 101. []()
 

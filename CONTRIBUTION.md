@@ -4,7 +4,7 @@
 
 Contributions are always welcome!
 
-See [CONTRIBUTION](CONTRIBUTION.md) for ways to get started. []
+See [CONTRIBUTION](CONTRIBUTION.md) for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 

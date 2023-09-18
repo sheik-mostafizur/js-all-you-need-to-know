@@ -41,17 +41,17 @@
 
    </details>
 
-5. [Return the Next Number from the Integer Passed](https://edabit.com/challenge/NAQhEoxbofPidLxm9)
+5. [What's Hiding Amongst the Crowd?](https://edabit.com/challenge/rvsvGvqZ3BzNieKqA)
 
-6. [Convert Age to Days](https://edabit.com/challenge/bL7hSc6Zh4zZJzGmw)
+6. [How Many Vowels?](https://edabit.com/challenge/3EQGHyiYTNc9LPmhF)
 
-7. [Convert Hours into Seconds](https://edabit.com/challenge/6AnQqiEjkJdZrWhPS)
+7. [Repeating Letters](https://edabit.com/challenge/Mc6Xi4PRw7fDzeMDB)
 
 8. [Return the First Element in an Array](https://edabit.com/challenge/QaApgtePE6QrCZ64o)
 
-9. [Power Calculator](https://edabit.com/challenge/wAdE9te55cowBLcPs)
+9. [Emotify the Sentence](https://edabit.com/challenge/Szh3ib2bpJCYXKrKa)
 
-10. [Convert Hours into Seconds](https://edabit.com/challenge/6AnQqiEjkJdZrWhPS)
+10. [Using Ternary Operators](https://edabit.com/challenge/32rk4qSmtrB6oJGyn)
 
 11. [Return the Next Number from the Integer Passed](https://edabit.com/challenge/NAQhEoxbofPidLxm9)
 
@@ -126,3 +126,909 @@
 46. [Summing the Squares](https://edabit.com/challenge/ip7xupP78R5z5mTmT)
 
 47. [True Ones, False Zeros](https://edabit.com/challenge/3BqLw3Rp85Y94nAho)
+
+48. [Find the Amount of Potatoes](https://edabit.com/challenge/u6iaymtE4eYXQ2ZWR)
+
+49. [Count Instances of a Character in a String](https://edabit.com/challenge/kbFhwaDyrd79JrgeB)
+
+50. [Incorrect Import Statement](https://edabit.com/challenge/3XiwjSzuMN4MQN6tJ)
+
+51. [Recursion to Repeat a String n Number of Times](https://edabit.com/challenge/MjqneMZ7aZa8AxXZG)
+
+52. [Find the Bomb](https://edabit.com/challenge/r4hycBjiBNMs6AAjq)
+
+53. [Remove Every Vowel from a String](https://edabit.com/challenge/DbLp2kHgwQbridSSy)
+
+54. [Return the Index of the First Vowel](https://edabit.com/challenge/ppBDRwSoqZYcR95Aq)
+
+55. [Is it True?](https://edabit.com/challenge/b8XYLrNhqryNjkDPd)
+
+56. [Regex Series: Even Number?](https://edabit.com/challenge/pQh6uEM2Dp3BjAyzS)
+
+57. [Say "Hello" Say "Bye"](https://edabit.com/challenge/kLa2w7m4h849k8rmW)
+
+58. [Capitalize by ASCII](https://edabit.com/challenge/KPENunE3uhBcmSQ7C)
+
+59. [Hashes and Pluses](https://edabit.com/challenge/ydBcGvv3n447nbxCy)
+
+60. [Secret Society](https://edabit.com/challenge/zQm9YZTTFPhNtYjDr)
+
+61. [Reverse the Case](https://edabit.com/challenge/PTvYKkvf7oytHmJFm)
+
+62. [Valid Zip Code](https://edabit.com/challenge/Ysk5M8XAscc4fqaAi)
+
+63. [Convert to Decimal Notation](https://edabit.com/challenge/4tLabih2cr5Haw7xo)
+
+64. [Check If It's a Title String](https://edabit.com/challenge/6q9iTtQdnZZM5Cbai)
+
+65. [Transforming Words into Binary Strings](https://edabit.com/challenge/djNxjykvXvKuHvGPZ)
+
+66. [Most Left Digit](https://edabit.com/challenge/tPvx6pgPmerPrwqM8)
+
+67. [How Many Decimal Places?](https://edabit.com/challenge/arKLRM8qGzKZbCxCk)
+
+68. [Index Shuffle](https://edabit.com/challenge/ATbswTsEaMJb37Ez2)
+
+69. [Regex Series: 5-Digit Zip Code](https://edabit.com/challenge/zmyuLfHcbJeTef5yr)
+
+70. [Prefixes vs. Suffixes](https://edabit.com/challenge/pBp7v6zkQvNa9jByh)
+
+71. [Hiding the Card Number](https://edabit.com/challenge/rtpvAqFT3koqMoFCJ)
+
+72. [Detect Browser from User Agent](https://edabit.com/challenge/PbEuBFLRpzgWQwuvY)
+
+73. [Spelling it Out](https://edabit.com/challenge/Akgh37c6dccEsNBt6)
+
+74. [Join Two Portions of a Path](https://edabit.com/challenge/ezv3TCDcgAYhyL3R2)
+
+75. [Which Generation Are You?](https://edabit.com/challenge/48EJWLhF224na8po3)
+
+76. [Remove Trailing and Leading Zeros](https://edabit.com/challenge/3jzycf6fcgwZbvpcf)
+
+77. [Get the Area of a Country](https://edabit.com/challenge/ejfdLAp673DwxSg5R)
+
+78. [Reverse Words in a String](https://edabit.com/challenge/mQunDaXMdXcC9r9xH)
+
+79. [Hitting the Jackpot](https://edabit.com/challenge/hxyvTffvdT4E238CY)
+
+80. [Finding Nemo](https://edabit.com/challenge/c23dFfNiKbnguSQtq)
+
+81. [Move Capital Letters to the Front](https://edabit.com/challenge/8n9RyHThC3dNEPCng)
+
+82. [Match the Last Item](https://edabit.com/challenge/jbR9NupEL8zAZkbKx)
+
+83. [Remove Duplicates from an Array](https://edabit.com/challenge/Wd7WKqm95jhcAGATG)
+
+84. [The DECIMATOR](https://edabit.com/challenge/qabZCHGmuTak57C7h)
+
+85. [ReverseAndNot](https://edabit.com/challenge/moK78CirzYbqk6g3z)
+
+86. [Multiplying Numbers in a String](https://edabit.com/challenge/TzxoYExuxuQw2ahWR)
+
+87. [Xs and Os, Nobody Knows](https://edabit.com/challenge/RG5NJWDa7pZGFkhTA)
+
+88. [Capitalize the First Letter of Each Word](https://edabit.com/challenge/LvtsCQNpx7CwHGubf)
+
+89. [Reverse Words Starting With a Particular Letter](https://edabit.com/challenge/KffCqRz23XL5ewbgH)
+
+90. [Maskify the String](https://edabit.com/challenge/32mN4NsXypmqtuYkA)
+
+91. [Find the Characters Counterpart Char Code](https://edabit.com/challenge/fbaLZPNjTvYtY444B)
+
+92. [Barbecue Skewers](https://edabit.com/challenge/uAGzHNBWbNj2iNqLr)
+
+93. [Return the Middle Character(s) of a String](https://edabit.com/challenge/R3649PDvoFf6wGxyg)
+
+94. [Is the Word an Isogram?](https://edabit.com/challenge/rJPgai5r5XdXeQmLg)
+
+95. [Emphasis the Words](https://edabit.com/challenge/HRPCRRZ9FPYiXnNhH)
+
+96. [Format Number with Comma(s) Separating Thousands](https://edabit.com/challenge/5o7CE6N4uNAGDzjRg)
+
+97. [Double Letters](https://edabit.com/challenge/YHLaB8itA9tEDN5TG)
+
+98. [Remove the Letters ABC](https://edabit.com/challenge/RftQjZs3srJnRBEH8)
+
+99. [Numbers in Strings](https://edabit.com/challenge/eCPim4XcssdZdvs32)
+
+100. [Reverse the Odd Length Words](https://edabit.com/challenge/yYfQoo6rkMezauG77)
+
+101. []()
+
+102. []()
+
+103. []()
+
+104. []()
+
+105. []()
+
+106. []()
+
+107. []()
+
+108. []()
+
+109. []()
+
+110. []()
+
+111. []()
+
+112. []()
+
+113. []()
+
+114. []()
+
+115. []()
+
+116. []()
+
+117. []()
+
+118. []()
+
+119. []()
+
+120. []()
+
+121. []()
+
+122. []()
+
+123. []()
+
+124. []()
+
+125. []()
+
+126. []()
+
+127. []()
+
+128. []()
+
+129. []()
+
+130. []()
+
+131. []()
+
+132. []()
+
+133. []()
+
+134. []()
+
+135. []()
+
+136. []()
+
+137. []()
+
+138. []()
+
+139. []()
+
+140. []()
+
+141. []()
+
+142. []()
+
+143. []()
+
+144. []()
+
+145. []()
+
+146. []()
+
+147. []()
+
+148. []()
+
+149. []()
+
+150. []()
+
+151. []()
+
+152. []()
+
+153. []()
+
+154. []()
+
+155. []()
+
+156. []()
+
+157. []()
+
+158. []()
+
+159. []()
+
+160. []()
+
+161. []()
+
+162. []()
+
+163. []()
+
+164. []()
+
+165. []()
+
+166. []()
+
+167. []()
+
+168. []()
+
+169. []()
+
+170. []()
+
+171. []()
+
+172. []()
+
+173. []()
+
+174. []()
+
+175. []()
+
+176. []()
+
+177. []()
+
+178. []()
+
+179. []()
+
+180. []()
+
+181. []()
+
+182. []()
+
+183. []()
+
+184. []()
+
+185. []()
+
+186. []()
+
+187. []()
+
+188. []()
+
+189. []()
+
+190. []()
+
+191. []()
+
+192. []()
+
+193. []()
+
+194. []()
+
+195. []()
+
+196. []()
+
+197. []()
+
+198. []()
+
+199. []()
+
+200. []()
+
+201. []()
+
+202. []()
+
+203. []()
+
+204. []()
+
+205. []()
+
+206. []()
+
+207. []()
+
+208. []()
+
+209. []()
+
+210. []()
+
+211. []()
+
+212. []()
+
+213. []()
+
+214. []()
+
+215. []()
+
+216. []()
+
+217. []()
+
+218. []()
+
+219. []()
+
+220. []()
+
+221. []()
+
+222. []()
+
+223. []()
+
+224. []()
+
+225. []()
+
+226. []()
+
+227. []()
+
+228. []()
+
+229. []()
+
+230. []()
+
+231. []()
+
+232. []()
+
+233. []()
+
+234. []()
+
+235. []()
+
+236. []()
+
+237. []()
+
+238. []()
+
+239. []()
+
+240. []()
+
+241. []()
+
+242. []()
+
+243. []()
+
+244. []()
+
+245. []()
+
+246. []()
+
+247. []()
+
+248. []()
+
+249. []()
+
+250. []()
+
+251. []()
+
+252. []()
+
+253. []()
+
+254. []()
+
+255. []()
+
+256. []()
+
+257. []()
+
+258. []()
+
+259. []()
+
+260. []()
+
+261. []()
+
+262. []()
+
+263. []()
+
+264. []()
+
+265. []()
+
+266. []()
+
+267. []()
+
+268. []()
+
+269. []()
+
+270. []()
+
+271. []()
+
+272. []()
+
+273. []()
+
+274. []()
+
+275. []()
+
+276. []()
+
+277. []()
+
+278. []()
+
+279. []()
+
+280. []()
+
+281. []()
+
+282. []()
+
+283. []()
+
+284. []()
+
+285. []()
+
+286. []()
+
+287. []()
+
+288. []()
+
+289. []()
+
+290. []()
+
+291. []()
+
+292. []()
+
+293. []()
+
+294. []()
+
+295. []()
+
+296. []()
+
+297. []()
+
+298. []()
+
+299. []()
+
+300. []()
+
+301. []()
+
+302. []()
+
+303. []()
+
+304. []()
+
+305. []()
+
+306. []()
+
+307. []()
+
+308. []()
+
+309. []()
+
+310. []()
+
+311. []()
+
+312. []()
+
+313. []()
+
+314. []()
+
+315. []()
+
+316. []()
+
+317. []()
+
+318. []()
+
+319. []()
+
+320. []()
+
+321. []()
+
+322. []()
+
+323. []()
+
+324. []()
+
+325. []()
+
+326. []()
+
+327. []()
+
+328. []()
+
+329. []()
+
+330. []()
+
+331. []()
+
+332. []()
+
+333. []()
+
+334. []()
+
+335. []()
+
+336. []()
+
+337. []()
+
+338. []()
+
+339. []()
+
+340. []()
+
+341. []()
+
+342. []()
+
+343. []()
+
+344. []()
+
+345. []()
+
+346. []()
+
+347. []()
+
+348. []()
+
+349. []()
+
+350. []()
+
+351. []()
+
+352. []()
+
+353. []()
+
+354. []()
+
+355. []()
+
+356. []()
+
+357. []()
+
+358. []()
+
+359. []()
+
+360. []()
+
+361. []()
+
+362. []()
+
+363. []()
+
+364. []()
+
+365. []()
+
+366. []()
+
+367. []()
+
+368. []()
+
+369. []()
+
+370. []()
+
+371. []()
+
+372. []()
+
+373. []()
+
+374. []()
+
+375. []()
+
+376. []()
+
+377. []()
+
+378. []()
+
+379. []()
+
+380. []()
+
+381. []()
+
+382. []()
+
+383. []()
+
+384. []()
+
+385. []()
+
+386. []()
+
+387. []()
+
+388. []()
+
+389. []()
+
+390. []()
+
+391. []()
+
+392. []()
+
+393. []()
+
+394. []()
+
+395. []()
+
+396. []()
+
+397. []()
+
+398. []()
+
+399. []()
+
+400. []()
+
+401. []()
+
+402. []()
+
+403. []()
+
+404. []()
+
+405. []()
+
+406. []()
+
+407. []()
+
+408. []()
+
+409. []()
+
+410. []()
+
+411. []()
+
+412. []()
+
+413. []()
+
+414. []()
+
+415. []()
+
+416. []()
+
+417. []()
+
+418. []()
+
+419. []()
+
+420. []()
+
+421. []()
+
+422. []()
+
+423. []()
+
+424. []()
+
+425. []()
+
+426. []()
+
+427. []()
+
+428. []()
+
+429. []()
+
+430. []()
+
+431. []()
+
+432. []()
+
+433. []()
+
+434. []()
+
+435. []()
+
+436. []()
+
+437. []()
+
+438. []()
+
+439. []()
+
+440. []()
+
+441. []()
+
+442. []()
+
+443. []()
+
+444. []()
+
+445. []()
+
+446. []()
+
+447. []()
+
+448. []()
+
+449. []()
+
+450. []()
+
+451. []()
+
+452. []()
+
+453. []()
+
+454. []()
+
+455. []()
+
+456. []()
+
+457. []()
+
+458. []()
+
+459. []()
+
+460. []()
+
+461. []()
+
+462. []()
+
+463. []()
+
+464. []()
+
+465. []()
+
+466. []()
+
+467. []()
+
+468. []()
+
+469. []()
+
+470. []()
+
+471. []()
+
+472. []()
+
+473. []()
+
+474. []()
+
+475. []()
+
+476. []()
+
+477. []()
+
+478. []()
+
+479. []()
+
+480. []()
+
+481. []()
+
+482. []()
+
+483. []()
+
+484. []()
+
+485. []()
+
+486. []()
+
+487. []()
+
+488. []()
+
+489. []()
+
+490. []()
+
+491. []()
+
+492. []()
+
+493. []()
+
+494. []()
+
+495. []()
+
+496. []()
+
+497. []()
+
+498. []()
+
+499. []()
+
+500. []()

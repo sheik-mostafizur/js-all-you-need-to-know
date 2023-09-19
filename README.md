@@ -6,17 +6,17 @@
 
 1. [How to return a value from a function?](https://edabit.com/challenge/ARr5tA458o2tC9FTN)
 
-2. [Return the Sum of Two Numbers.](https://edabit.com/challenge/3LpBLgNRyaHMvNb4j)
+2. [Return Types](https://edabit.com/challenge/QWmvQsrSuQRmEN8ne)
 
-3. [Convert Hours and Minutes into Seconds](https://edabit.com/challenge/JesaFi5ntBEbGT8bu)
+3. [Return the Sum of Two Numbers.](https://edabit.com/challenge/3LpBLgNRyaHMvNb4j)
 
-4. [What's Hiding Amongst the Crowd?](https://edabit.com/challenge/rvsvGvqZ3BzNieKqA)
+4. [Convert Hours and Minutes into Seconds](https://edabit.com/challenge/JesaFi5ntBEbGT8bu)
 
-5. [How Many Vowels?](https://edabit.com/challenge/3EQGHyiYTNc9LPmhF)
+5. [What's Hiding Amongst the Crowd?](https://edabit.com/challenge/rvsvGvqZ3BzNieKqA)
 
-6. [Repeating Letters](https://edabit.com/challenge/Mc6Xi4PRw7fDzeMDB)
+6. [How Many Vowels?](https://edabit.com/challenge/3EQGHyiYTNc9LPmhF)
 
-7. [Return the First Element in an Array](https://edabit.com/challenge/QaApgtePE6QrCZ64o)
+7. [Repeating Letters](https://edabit.com/challenge/Mc6Xi4PRw7fDzeMDB)
 
 8. [Emotify the Sentence](https://edabit.com/challenge/Szh3ib2bpJCYXKrKa)
 
@@ -86,116 +86,115 @@
 
 41. [Number of Leap Years](https://edabit.com/challenge/EzxPadgs3Y9hYWymS)
 
-42. [Return Types](https://edabit.com/challenge/QWmvQsrSuQRmEN8ne)
+42. [Recreating the String.length Property](https://edabit.com/challenge/bvPBzNq9FutDb2X6J)
 
-43. [Recreating the String.length Property](https://edabit.com/challenge/bvPBzNq9FutDb2X6J)
+43. [Summing the Squares](https://edabit.com/challenge/ip7xupP78R5z5mTmT)
 
-44. [Summing the Squares](https://edabit.com/challenge/ip7xupP78R5z5mTmT)
+44. [True Ones, False Zeros](https://edabit.com/challenge/3BqLw3Rp85Y94nAho)
 
-45. [True Ones, False Zeros](https://edabit.com/challenge/3BqLw3Rp85Y94nAho)
+45. [Find the Amount of Potatoes](https://edabit.com/challenge/u6iaymtE4eYXQ2ZWR)
 
-46. [Find the Amount of Potatoes](https://edabit.com/challenge/u6iaymtE4eYXQ2ZWR)
+46. [Count Instances of a Character in a String](https://edabit.com/challenge/kbFhwaDyrd79JrgeB)
 
-47. [Count Instances of a Character in a String](https://edabit.com/challenge/kbFhwaDyrd79JrgeB)
+47. [Incorrect Import Statement](https://edabit.com/challenge/3XiwjSzuMN4MQN6tJ)
 
-48. [Incorrect Import Statement](https://edabit.com/challenge/3XiwjSzuMN4MQN6tJ)
+48. [Recursion to Repeat a String n Number of Times](https://edabit.com/challenge/MjqneMZ7aZa8AxXZG)
 
-49. [Recursion to Repeat a String n Number of Times](https://edabit.com/challenge/MjqneMZ7aZa8AxXZG)
+49. [Find the Bomb](https://edabit.com/challenge/r4hycBjiBNMs6AAjq)
 
-50. [Find the Bomb](https://edabit.com/challenge/r4hycBjiBNMs6AAjq)
+50. [Remove Every Vowel from a String](https://edabit.com/challenge/DbLp2kHgwQbridSSy)
 
-51. [Remove Every Vowel from a String](https://edabit.com/challenge/DbLp2kHgwQbridSSy)
+51. [Return the Index of the First Vowel](https://edabit.com/challenge/ppBDRwSoqZYcR95Aq)
 
-52. [Return the Index of the First Vowel](https://edabit.com/challenge/ppBDRwSoqZYcR95Aq)
+52. [Is it True?](https://edabit.com/challenge/b8XYLrNhqryNjkDPd)
 
-53. [Is it True?](https://edabit.com/challenge/b8XYLrNhqryNjkDPd)
+53. [Regex Series: Even Number?](https://edabit.com/challenge/pQh6uEM2Dp3BjAyzS)
 
-54. [Regex Series: Even Number?](https://edabit.com/challenge/pQh6uEM2Dp3BjAyzS)
+54. [Say "Hello" Say "Bye"](https://edabit.com/challenge/kLa2w7m4h849k8rmW)
 
-55. [Say "Hello" Say "Bye"](https://edabit.com/challenge/kLa2w7m4h849k8rmW)
+55. [Capitalize by ASCII](https://edabit.com/challenge/KPENunE3uhBcmSQ7C)
 
-56. [Capitalize by ASCII](https://edabit.com/challenge/KPENunE3uhBcmSQ7C)
+56. [Hashes and Pluses](https://edabit.com/challenge/ydBcGvv3n447nbxCy)
 
-57. [Hashes and Pluses](https://edabit.com/challenge/ydBcGvv3n447nbxCy)
+57. [Reverse the Case](https://edabit.com/challenge/PTvYKkvf7oytHmJFm)
 
-58. [Secret Society](https://edabit.com/challenge/zQm9YZTTFPhNtYjDr)
+58. [Valid Zip Code](https://edabit.com/challenge/Ysk5M8XAscc4fqaAi)
 
-59. [Reverse the Case](https://edabit.com/challenge/PTvYKkvf7oytHmJFm)
+59. [Convert to Decimal Notation](https://edabit.com/challenge/4tLabih2cr5Haw7xo)
 
-60. [Valid Zip Code](https://edabit.com/challenge/Ysk5M8XAscc4fqaAi)
+60. [Check If It's a Title String](https://edabit.com/challenge/6q9iTtQdnZZM5Cbai)
 
-61. [Convert to Decimal Notation](https://edabit.com/challenge/4tLabih2cr5Haw7xo)
+61. [Transforming Words into Binary Strings](https://edabit.com/challenge/djNxjykvXvKuHvGPZ)
 
-62. [Check If It's a Title String](https://edabit.com/challenge/6q9iTtQdnZZM5Cbai)
+62. [Most Left Digit](https://edabit.com/challenge/tPvx6pgPmerPrwqM8)
 
-63. [Transforming Words into Binary Strings](https://edabit.com/challenge/djNxjykvXvKuHvGPZ)
+63. [How Many Decimal Places?](https://edabit.com/challenge/arKLRM8qGzKZbCxCk)
 
-64. [Most Left Digit](https://edabit.com/challenge/tPvx6pgPmerPrwqM8)
+64. [Index Shuffle](https://edabit.com/challenge/ATbswTsEaMJb37Ez2)
 
-65. [How Many Decimal Places?](https://edabit.com/challenge/arKLRM8qGzKZbCxCk)
+65. [Regex Series: 5-Digit Zip Code](https://edabit.com/challenge/zmyuLfHcbJeTef5yr)
 
-66. [Index Shuffle](https://edabit.com/challenge/ATbswTsEaMJb37Ez2)
+66. [Prefixes vs. Suffixes](https://edabit.com/challenge/pBp7v6zkQvNa9jByh)
 
-67. [Regex Series: 5-Digit Zip Code](https://edabit.com/challenge/zmyuLfHcbJeTef5yr)
+67. [Hiding the Card Number](https://edabit.com/challenge/rtpvAqFT3koqMoFCJ)
 
-68. [Prefixes vs. Suffixes](https://edabit.com/challenge/pBp7v6zkQvNa9jByh)
+68. [Detect Browser from User Agent](https://edabit.com/challenge/PbEuBFLRpzgWQwuvY)
 
-69. [Hiding the Card Number](https://edabit.com/challenge/rtpvAqFT3koqMoFCJ)
+69. [Spelling it Out](https://edabit.com/challenge/Akgh37c6dccEsNBt6)
 
-70. [Detect Browser from User Agent](https://edabit.com/challenge/PbEuBFLRpzgWQwuvY)
+70. [Join Two Portions of a Path](https://edabit.com/challenge/ezv3TCDcgAYhyL3R2)
 
-71. [Spelling it Out](https://edabit.com/challenge/Akgh37c6dccEsNBt6)
+71. [Which Generation Are You?](https://edabit.com/challenge/48EJWLhF224na8po3)
 
-72. [Join Two Portions of a Path](https://edabit.com/challenge/ezv3TCDcgAYhyL3R2)
+72. [Remove Trailing and Leading Zeros](https://edabit.com/challenge/3jzycf6fcgwZbvpcf)
 
-73. [Which Generation Are You?](https://edabit.com/challenge/48EJWLhF224na8po3)
+73. [Get the Area of a Country](https://edabit.com/challenge/ejfdLAp673DwxSg5R)
 
-74. [Remove Trailing and Leading Zeros](https://edabit.com/challenge/3jzycf6fcgwZbvpcf)
+74. [Reverse Words in a String](https://edabit.com/challenge/mQunDaXMdXcC9r9xH)
 
-75. [Get the Area of a Country](https://edabit.com/challenge/ejfdLAp673DwxSg5R)
+75. [Hitting the Jackpot](https://edabit.com/challenge/hxyvTffvdT4E238CY)
 
-76. [Reverse Words in a String](https://edabit.com/challenge/mQunDaXMdXcC9r9xH)
+76. [Finding Nemo](https://edabit.com/challenge/c23dFfNiKbnguSQtq)
 
-77. [Hitting the Jackpot](https://edabit.com/challenge/hxyvTffvdT4E238CY)
+77. [Move Capital Letters to the Front](https://edabit.com/challenge/8n9RyHThC3dNEPCng)
 
-78. [Finding Nemo](https://edabit.com/challenge/c23dFfNiKbnguSQtq)
+78. [Match the Last Item](https://edabit.com/challenge/jbR9NupEL8zAZkbKx)
 
-79. [Move Capital Letters to the Front](https://edabit.com/challenge/8n9RyHThC3dNEPCng)
+79. [The DECIMATOR](https://edabit.com/challenge/qabZCHGmuTak57C7h)
 
-80. [Match the Last Item](https://edabit.com/challenge/jbR9NupEL8zAZkbKx)
+80. [ReverseAndNot](https://edabit.com/challenge/moK78CirzYbqk6g3z)
 
-81. [Remove Duplicates from an Array](https://edabit.com/challenge/Wd7WKqm95jhcAGATG)
+81. [Multiplying Numbers in a String](https://edabit.com/challenge/TzxoYExuxuQw2ahWR)
 
-82. [The DECIMATOR](https://edabit.com/challenge/qabZCHGmuTak57C7h)
+82. [Xs and Os, Nobody Knows](https://edabit.com/challenge/RG5NJWDa7pZGFkhTA)
 
-83. [ReverseAndNot](https://edabit.com/challenge/moK78CirzYbqk6g3z)
+83. [Capitalize the First Letter of Each Word](https://edabit.com/challenge/LvtsCQNpx7CwHGubf)
 
-84. [Multiplying Numbers in a String](https://edabit.com/challenge/TzxoYExuxuQw2ahWR)
+84. [Reverse Words Starting With a Particular Letter](https://edabit.com/challenge/KffCqRz23XL5ewbgH)
 
-85. [Xs and Os, Nobody Knows](https://edabit.com/challenge/RG5NJWDa7pZGFkhTA)
+85. [Maskify the String](https://edabit.com/challenge/32mN4NsXypmqtuYkA)
 
-86. [Capitalize the First Letter of Each Word](https://edabit.com/challenge/LvtsCQNpx7CwHGubf)
+86. [Find the Characters Counterpart Char Code](https://edabit.com/challenge/fbaLZPNjTvYtY444B)
 
-87. [Reverse Words Starting With a Particular Letter](https://edabit.com/challenge/KffCqRz23XL5ewbgH)
+87. [Return the Middle Character(s) of a String](https://edabit.com/challenge/R3649PDvoFf6wGxyg)
 
-88. [Maskify the String](https://edabit.com/challenge/32mN4NsXypmqtuYkA)
+88. [Is the Word an Isogram?](https://edabit.com/challenge/rJPgai5r5XdXeQmLg)
 
-89. [Find the Characters Counterpart Char Code](https://edabit.com/challenge/fbaLZPNjTvYtY444B)
+89. [Emphasis the Words](https://edabit.com/challenge/HRPCRRZ9FPYiXnNhH)
 
-90. [Barbecue Skewers](https://edabit.com/challenge/uAGzHNBWbNj2iNqLr)
+90. [Format Number with Comma(s) Separating Thousands](https://edabit.com/challenge/5o7CE6N4uNAGDzjRg)
 
-91. [Return the Middle Character(s) of a String](https://edabit.com/challenge/R3649PDvoFf6wGxyg)
+91. [Double Letters](https://edabit.com/challenge/YHLaB8itA9tEDN5TG)
 
-92. [Is the Word an Isogram?](https://edabit.com/challenge/rJPgai5r5XdXeQmLg)
+92. [Remove the Letters ABC.](https://edabit.com/challenge/RftQjZs3srJnRBEH8)
 
-93. [Emphasis the Words](https://edabit.com/challenge/HRPCRRZ9FPYiXnNhH)
+93. [Numbers in Strings.](https://edabit.com/challenge/eCPim4XcssdZdvs32)
 
-94. [Format Number with Comma(s) Separating Thousands](https://edabit.com/challenge/5o7CE6N4uNAGDzjRg)
+94. [Reverse the Odd Length Words.](https://edabit.com/challenge/yYfQoo6rkMezauG77)
 
-95. [Double Letters](https://edabit.com/challenge/YHLaB8itA9tEDN5TG)
+95. [Secret Society](https://edabit.com/challenge/zQm9YZTTFPhNtYjDr)
 
-96. [Remove the Letters ABC.](https://edabit.com/challenge/RftQjZs3srJnRBEH8)
+96. [Return the First Element in an Array](https://edabit.com/challenge/QaApgtePE6QrCZ64o)
 
-97. [Numbers in Strings.](https://edabit.com/challenge/eCPim4XcssdZdvs32)
+97. [Remove Duplicates from an Array](https://edabit.com/challenge/Wd7WKqm95jhcAGATG)
 
-98. [Reverse the Odd Length Words.](https://edabit.com/challenge/yYfQoo6rkMezauG77)

@@ -199,3 +199,17 @@
 97. [Numbers in Strings.](https://edabit.com/challenge/eCPim4XcssdZdvs32)
 
 98. [Reverse the Odd Length Words.](https://edabit.com/challenge/yYfQoo6rkMezauG77)
+
+99. [Multiplication table for number.](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce)
+
+100. [Count Odd Numbers below n.](https://www.codewars.com/kata/59342039eb450e39970000a6)
+
+101. [Count the divisors of a number.](https://www.codewars.com/kata/542c0f198e077084c0000c2e)
+
+102. [Find Multiples of a Number.](https://www.codewars.com/kata/58ca658cc0d6401f2700045f)
+
+103. [Multiply the number.](https://www.codewars.com/kata/5708f682c69b48047b000e07)
+
+104. [For Twins: 1. Types](https://www.codewars.com/kata/59c1302ecb7fb48757000013)
+
+105. [Check same case](https://www.codewars.com/kata/5dd462a573ee6d0014ce715b)

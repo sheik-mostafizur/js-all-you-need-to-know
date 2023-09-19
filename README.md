@@ -213,3 +213,4 @@
 104. [Hitting the Jackpot](https://edabit.com/challenge/hxyvTffvdT4E238CY)
 
 105. [Match the Last Item](https://edabit.com/challenge/jbR9NupEL8zAZkbKx)
+106. [Basic Variable Assignment](https://edabit.com/challenge/ZNwHGgHvsdnYwJ5WK)

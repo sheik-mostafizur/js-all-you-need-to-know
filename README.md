@@ -214,7 +214,8 @@
 
 105. [Match the Last Item](https://edabit.com/challenge/jbR9NupEL8zAZkbKx)
 
----
+107. [Basic Variable Assignment](https://edabit.com/challenge/ZNwHGgHvsdnYwJ5WK)
+
 
 ## Our Contributors
 
@@ -249,3 +250,5 @@
   </tr>
 </table>
 <!-- End of Contributors List -->
+
+
